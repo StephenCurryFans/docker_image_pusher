@@ -1,3 +1,2 @@
 onlyoffice/documentserver:8.1
 frooodle/s-pdf:latest
-sickcodes/docker-osx:latest
