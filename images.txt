@@ -1,2 +1,2 @@
-onlyoffice/documentserver:8.1
+onlyoffice/documentserver:8.2
 frooodle/s-pdf:latest
